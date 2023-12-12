@@ -1,4 +1,4 @@
-package Myprogs.Loops;
+package Myprogs.BreakContinueexample;
 
 public class BreakContinueexam4 {
         public static void main(String[] args)
