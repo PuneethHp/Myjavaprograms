@@ -10,7 +10,7 @@ public class Assignment {
             c = a + b;
             System.out.println("c = a + b = " + c );
 
-            c += a ;
+            c  += a ;
             System.out.println("c += a  = " + c );
 
             c -= a ;
