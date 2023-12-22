@@ -1,12 +1,13 @@
-package Myprogs.Loops;
+package Myprogs.LoopsExample;
 
-public class LoopsExam3 {
+public class LoopsExam4 {
         public static void main(String[] args)
         {
-            int a[]={20,21,22,23,24,25};
-            for(int i:a)
+            int i=1;
+            while(i<=20)
             {
                 System.out.println(i);
+                i++;
             }
         }
     }

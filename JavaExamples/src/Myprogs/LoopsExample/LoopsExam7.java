@@ -1,4 +1,4 @@
-package Myprogs.Loops;
+package Myprogs.LoopsExample;
 
 public class LoopsExam7 {
         public static void main(String[] args)
