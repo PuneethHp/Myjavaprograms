@@ -2,7 +2,7 @@ package Myprogs.SwitchStatements;
 
 public class Stringprice {
     public static void main(String[] args) {
-        String name = "House 3" ;
+        String name = "House" ;
         switch (name){
             case "House 1":
                 System.out.println("Rent");
