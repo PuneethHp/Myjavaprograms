@@ -4,19 +4,20 @@ public class SwitchOperationExample {
     public static void main(String[] args) {
         int a = 40;
         int b = 50;
-        String op = "/";
+        int c = 10;
+        String op = "+";
         int result;
         switch (op) {
             case "+":
-                result = a + b;
+                result = a + b + c;
                 System.out.println(result);
                 break;
             case "-":
-                result = a - b;
+                result = a - b - c;
                 System.out.println(result);
                 break;
             case "*":
-                result = a * b;
+                result = a * b * c;
                 System.out.println(result);
                 break;
             case "/":
