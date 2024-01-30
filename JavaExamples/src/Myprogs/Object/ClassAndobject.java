@@ -11,8 +11,6 @@ public class ClassAndobject {
             System.out.println("Roll Number: "+rollno);
             System.out.println("Age: "+age);
         }
-
-
         public static void main(String[] args) {
             ClassAndobject classAndobject = new ClassAndobject();
             classAndobject.name = "Gowtham";

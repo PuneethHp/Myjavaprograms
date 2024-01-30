@@ -4,11 +4,12 @@ public class ReturnObject {
         int a;
         double b;
         int c;
+        int d;
         ReturnObject(int m, double d, int a)
         {
-            a = m;
-            b = d;
-            c = a;
+            this.a = m;
+            this.b = d;
+            this.c = a;
         }
     }
     class Method4{
