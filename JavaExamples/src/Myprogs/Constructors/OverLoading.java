@@ -6,8 +6,8 @@ public class OverLoading {
     int age;
     OverLoading ()
     {
-        name ="";
-        team ="";
+        name ="  ";
+        team ="  ";
         age = 0;
     }
     OverLoading(String n, String t, int a)
@@ -16,11 +16,11 @@ public class OverLoading {
         team = t;
         age = a;
     }
-    OverLoading (OverLoading ckt)
+    OverLoading (OverLoading cricketer)
     {
-        name = ckt.name;
-        team = ckt.team;
-        age = ckt.age;
+        name = cricketer.name;
+        team = cricketer.team;
+        age = cricketer.age;
     }
     public String toString()
     {
