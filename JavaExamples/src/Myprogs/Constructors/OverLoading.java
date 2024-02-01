@@ -24,7 +24,7 @@ public class OverLoading {
     }
     public String toString()
     {
-        return "this is " + name + " of "+team;
+        return "this is " + name + " of "+team +  age;
     }
 }
 
@@ -41,6 +41,7 @@ public class OverLoading {
             c1.team= "India";
             c1.age = 32;
             System.out.println(c1);
+
         }
     }
 
