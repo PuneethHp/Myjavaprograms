@@ -13,7 +13,7 @@ public class AllOperations {
 //        System.out.println("Modulus of two numbers is : " + mdivide(a, b));
 //        System.out.println("Result of num1 is : " + divide(a, 2));
 //        System.out.println("Result of num2  is : " + divide(b, 2));
-        checkMul(a,b);
+        checkPositive(a,b);
         //if it is divisble by 2 return value or else 0
     }
 
