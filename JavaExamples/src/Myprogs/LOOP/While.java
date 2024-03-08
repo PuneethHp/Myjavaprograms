@@ -1,6 +1,7 @@
-package Myprogs.Loops;
+package Myprogs.LOOP;
 
-public class LoopsExam4 {
+public class While {
+
         public static void main(String[] args)
         {
             int i=1;

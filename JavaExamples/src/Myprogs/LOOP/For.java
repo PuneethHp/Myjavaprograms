@@ -1,6 +1,8 @@
-package Myprogs.Loops;
+package Myprogs.LOOP;
 
-public class LoopsExam1 {
+public class For {
+
+
         public static void main(String[] args)
         {
             int n, i;
